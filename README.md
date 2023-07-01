@@ -4,7 +4,7 @@
 
 - 👨‍💻 I’m currently Practicing **Front-End By Doing Projects**
 
-- 🌱 I’m currently Learning **Version Control System**
+- 🌱 I’m currently Learning **Javascript**
 
 - 🌱 Planning To Learn Languages : **Javascript , SQL/MySql , PHP , nodejs**
 
