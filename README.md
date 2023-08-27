@@ -24,6 +24,8 @@
 <p align="center"> <a href="mailto:moaz822008@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23></a> <a href="http://wa.me//201020885969"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height=23></a> 
   <a href="https://codepen.io/king-mezo-coder"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" height=23>
  <a href="https://github.com/Moaz-Mohammed-Ahmed/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height=23></a> 
+     <a href="https://www.codewars.com/dashboard"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" height=23></a> 
+
 </p>
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2><br>
