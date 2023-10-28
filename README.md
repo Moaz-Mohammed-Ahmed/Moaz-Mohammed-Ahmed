@@ -8,16 +8,16 @@
    
 <img src="https://raw.githubusercontent.com/HalemoGPA/HalemoGPA/main/images/Developer.gif" alt="developer gif"  height="45px"> About Me:
 <p align="center">
-  Hi, I'm Moaz, 15 years old from EGYPT want to enter the Faculty of Computer and Information
+  Hi, I'm Moaz, 16 years old from EGYPT want to enter the Faculty of Computer and Information ( SOFTWARE ENG. )
   <br>
   <br>
-  👨‍🎓 I'm currently Learning Javascript
+  👨‍🎓 I'm currently Learning C++
   <br>
-  🌱 Planning to Learn nodejs , php , sql/MySql , laravel , tailwind , vuejs , nextjs  
+  🌱 Planning to Learn D.S.A , OOP , OOD , JAVA   
   <br>
   💻 I love Writing code, Hardware and learning anything about them 😊
   <br>
-  📚 I’m currently focusing on Web Development 
+  📚 I’m currently focusing to be a Software Eng.
   <br>
   📫 How to reach me 👇
 </p>
