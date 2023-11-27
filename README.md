@@ -8,7 +8,7 @@
    
 <img src="https://raw.githubusercontent.com/HalemoGPA/HalemoGPA/main/images/Developer.gif" alt="developer gif"  height="45px"> About Me:
 <p align="center">
-  Hi, I'm Moaz, 16 years old from EGYPT want to enter the Faculty of Computer and Information ( SOFTWARE ENG. )
+  Hi, I'm Moaz, 15 years old from EGYPT want to enter the Faculty of Computer and Information ( SOFTWARE ENG. )
   <br>
   <br>
   👨‍🎓 I'm currently Learning C++
@@ -21,9 +21,8 @@
   <br>
   📫 How to reach me 👇
 </p>
-<p align="center"> <a href="mailto:moaz822008@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23></a> <a href="http://wa.me//201020885969"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height=23></a> 
+<p align="center"> <a href="mailto:moaz822008@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23></a> <a href="http://wa.me//201020885969
   <a href="https://codepen.io/king-mezo-coder"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" height=23>
- <a href="https://github.com/Moaz-Mohammed-Ahmed/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height=23></a> 
      <a href="https://www.codewars.com/dashboard"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" height=23></a> 
 
 </p>
